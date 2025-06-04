@@ -7,7 +7,7 @@ This repository contains the official code for the paper:
 
 > **CoRE** proposes a contrastive learning framework that enhances retrieval-augmented generation by aligning reasoning paths with structured experiences. 
 
-
+![Comparison between RAG and CoRE](rag_vs_core.png)
 
 ### Coming Soon
 
