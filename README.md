@@ -1,5 +1,5 @@
 
-## 🧠 CoRE: Contrastive Retrieval-Augmented Generation on Experience
+## CoRE: Contrastive Retrieval-Augmented Generation on Experience
 
 This repository contains the official code for the paper:
 
@@ -7,13 +7,13 @@ This repository contains the official code for the paper:
 
 > **CoRE** proposes a contrastive learning framework that enhances retrieval-augmented generation by aligning reasoning paths with structured experiences. 
 
----
 
-### 🚧 Coming Soon
+
+### Coming Soon
 
 We are currently preparing the code and documentation for release. Please stay tuned!
 
----
+
 
 ### 📌 Citation
 
@@ -31,4 +31,4 @@ We are currently preparing the code and documentation for release. Please stay t
 
 ---
 
-需要我帮你生成一个更详细的版本（例如添加安装环境、用法说明的模板）或等你代码准备好后再丰富这个文档？🙂
+
